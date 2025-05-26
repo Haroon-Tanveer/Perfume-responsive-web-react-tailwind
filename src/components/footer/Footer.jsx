@@ -83,6 +83,7 @@ const Footer = () => {
                 &copy; {new Date().getFullYear()} Scent Haven. All rights
                 reserved.
               </p>
+              {/* some issue are occure */}
               {/* <div className='flex space-x-6 mt-4 md:mt-0'>
                 {paymentIcons.map((FaIcons, i)=>(
                   <FaIcons key={i} className='h-6 w-8' />
